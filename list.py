@@ -46,3 +46,7 @@ print('reversed list',f)
 g=[1,2,3,4]
 g.clear()
 print(g)
+
+h=[2,4,8,10]
+removed_element=h.pop(2)
+print(removed_element)

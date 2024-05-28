@@ -31,3 +31,8 @@ days2={'sunday','saturday','friday'}
 print(days1|days2)
 print(days1&days2)
 
+numbers={1,2,3,4,5}
+numbers1={1,2,3}
+numbers3={1,4,3}
+print(numbers1>numbers)
+print(numbers1<numbers)

@@ -33,3 +33,8 @@ a="hello"
 b="world"
 print(a+b)
 
+a={'a':'hello','b':'world'}
+print(a['a'])
+
+a['c']='good'
+print(a)

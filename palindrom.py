@@ -1,4 +1,4 @@
-a=input('Enter a Letter')
+a=input('Enter the Letter')
 if(a==a[::-1]):
     print('PALINDROM')
 else:

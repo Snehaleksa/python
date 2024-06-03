@@ -22,7 +22,7 @@ while True:
             l[a]=l[a]-d
             print('succussfully withdrow')         
         else:
-            print('no')           
+            print('Account not found')           
     elif x==4:
         break   
                     

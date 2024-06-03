@@ -11,7 +11,11 @@ for i in range(0,7):
             b=b-1
         else:
             print(' ', end=' ')  
-    print()                 
+    print()  
+
+
+    
+                   
 
               
 

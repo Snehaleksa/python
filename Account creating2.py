@@ -35,6 +35,5 @@ while True:
         withdrow(a,d)
     elif x==4:
         break 
-    elif x==5:
-        
 
+        
